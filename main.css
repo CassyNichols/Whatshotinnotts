@@ -24,7 +24,6 @@ li, a, button {
 .logo{
   margin-right: auto;
   cursor: pointer;
-  order: 1;
 }
 .nav_menu{
   list-style: none;
