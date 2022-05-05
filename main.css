@@ -20,10 +20,6 @@ li, a, button {
   align-items: center;
   padding: 30px 10%;
 }
-
-.logo{
-  cursor: pointer;
-}
 .nav_menu{
   list-style: none;
  }
