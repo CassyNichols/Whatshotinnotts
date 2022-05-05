@@ -13,13 +13,20 @@ li, a, button {
   color: white;
   text-decoration: none;
 }
- 
+
 .header{
   display: flex;
   justify-content: space-evenly;
   align-items: center;
   padding: 30px 10%;
 }
+.logo{
+  margin-right: auto;
+  width: 220px;
+  height: 220px;
+  cursor: pointer;
+
+}  
 .nav_menu{
   list-style: none;
  }
