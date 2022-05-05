@@ -22,6 +22,8 @@ li, a, button {
 }
 
 .logo{
+  display: flex;
+  justify-content: space-evenly;
   margin-right: auto;
   cursor: pointer;
 }
